@@ -10,7 +10,7 @@ Características:
 - Registro de logs.
 
 Integrantes:
-- Nombre estudiante 1
+- Jenny Paola Chitiva Castillo
 - Nombre estudiante 2
 - Nombre estudiante 3
 - Nombre estudiante 4
